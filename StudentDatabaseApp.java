@@ -93,5 +93,3 @@ public class StudentDatabaseApp extends JFrame {
         SwingUtilities.invokeLater(() -> new StudentDatabaseApp());
     }
 }
-
-
